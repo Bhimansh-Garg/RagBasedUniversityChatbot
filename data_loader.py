@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import os
 from PyPDF2 import PdfReader
 from docx import Document
@@ -41,3 +42,11 @@ def load_documents():
         all_chunks.extend(chunks)
 
     return all_chunks
+=======
+def load_documents():
+    with open("nitj_data.txt", "r", encoding="utf-8") as f:
+        text = f.read()
+
+    chunks = text.split("\n\n")
+    return [chunk.strip() for chunk in chunks if len(chunk.strip()) > 50]
+>>>>>>> 3072bd2a7e41953e6e1726351219ad708d87b71f
