@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NITJ Virtual Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<!-- Floating Button -->
+<div id="chat-toggle">💬</div>
+
+<!-- Chat Window -->
+<div class="chat-container" id="chat-container">
+    <div class="chat-header">
+        NITJ Virtual Assistant
+        <span id="close-chat">✖</span>
+    </div>
+
+    <div class="chat-box" id="chat-box">
+        <div class="bot-message">
+            Hello 👋 I am the NITJ Chatbot. Ask me anything about the institute.
+        </div>
+    </div>
+
+    <div class="typing" id="typing">Bot is typing...</div>
+
+    <div class="chat-input">
+        <input type="text" id="user-input" placeholder="Type your query here..." />
+        <button onclick="sendMessage()">Send</button>
+    </div>
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
