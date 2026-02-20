@@ -66,7 +66,6 @@ def get_response(user_query):
         )
 
     # ---------- INFORMATION RETRIEVAL ----------
-<<<<<<< HEAD
     
     results, confidence = search(user_query, top_k=2)
 
@@ -91,21 +90,3 @@ def get_response(user_query):
     answer = generate_answer(combined_context, user_query)
 
     return answer
-=======
-    contexts = search(user_query, top_k=5)
-
-    if not contexts:
-        return (
-            "I could not find relevant information for your query.\n"
-            "Please try rephrasing or visit the official NIT Jalandhar website."
-        )
-
-    combined_context = "\n".join([f"- {ctx}" for ctx in contexts])
-
-    return (
-        "Based on NIT Jalandhar records:\n\n"
-        f"{combined_context}\n\n"
-        "Feel free to ask about another topic."
-    )
->>>>>>> 3072bd2a7e41953e6e1726351219ad708d87b71f
-

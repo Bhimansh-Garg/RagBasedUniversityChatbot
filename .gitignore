@@ -1,7 +1,3 @@
 venv/
-<<<<<<< HEAD
-__pycache__/
-=======
 __pycache__/
 *.pyc
->>>>>>> 3072bd2a7e41953e6e1726351219ad708d87b71f
