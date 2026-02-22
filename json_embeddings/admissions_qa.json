@@ -1,0 +1,182 @@
+{
+  "institution_info": [
+    {
+      "id": "inst_001",
+      "question": "What is NIT Jalandhar?",
+      "answer": "Dr. B. R. Ambedkar National Institute of Technology (NIT) Jalandhar is a public engineering institute of national importance under the Ministry of Education, Government of India. It was established in 1987 as Regional Engineering College Jalandhar and was declared an NIT in 2002.",
+      "category": "Institution Overview"
+    },
+    {
+      "id": "inst_002",
+      "question": "Where is NIT Jalandhar located?",
+      "answer": "NIT Jalandhar is located on GT Road near Amritsar Bypass in Jalandhar, Punjab. The institute has an urban campus spread over approximately 154 acres.",
+      "category": "Location & Campus"
+    },
+    {
+      "id": "inst_003",
+      "question": "What are NIT Jalandhar's rankings and achievements?",
+      "answer": "NIT Jalandhar is ranked 46th in the National Institutional Ranking Framework (NIRF-2023), Band-Excellent in the Atal Ranking of Institutions on Innovation Achievements (ARIIA), and was ranked in the 1001-1200 range in the Times Higher Education (THE) Emerging Economies University Rankings 2023.",
+      "category": "Rankings"
+    }
+  ],
+  "academic_programs": [
+    {
+      "id": "acad_001",
+      "question": "What undergraduate programs are offered at NIT Jalandhar?",
+      "answer": "NIT Jalandhar offers B.Tech degrees in Computer Science and Engineering, Mechanical Engineering, Electrical Engineering, Civil Engineering, Electronics and Communication Engineering, Chemical Engineering, and Biotechnology, among others.",
+      "category": "Undergraduate Programs"
+    },
+    {
+      "id": "acad_002",
+      "question": "What postgraduate programs does NIT Jalandhar offer?",
+      "answer": "NIT Jalandhar offers M.Tech, M.Sc, and MBA degrees. The institute also offers PhD programs across various academic departments and interdisciplinary centers.",
+      "category": "Postgraduate Programs"
+    },
+    {
+      "id": "acad_003",
+      "question": "What academic departments are available at NIT Jalandhar?",
+      "answer": "NIT Jalandhar has multiple academic departments: Computer Science and Engineering, Mechanical Engineering, Electrical Engineering, Civil Engineering, Electronics and Communication Engineering, Chemical Engineering, and Biotechnology. Each maintains faculty profiles, research areas, laboratory facilities, and course syllabi.",
+      "category": "Departments"
+    },
+    {
+      "id": "acad_004",
+      "question": "What is the academic system followed at NIT Jalandhar?",
+      "answer": "NIT Jalandhar follows a credit-based semester system for all academic programs. Programs include theory courses, laboratory courses, projects, internships, and thesis components depending on the level of study.",
+      "category": "Academic System"
+    }
+  ],
+  "admissions": [
+    {
+      "id": "adm_001",
+      "question": "How can I apply for B.Tech programs at NIT Jalandhar?",
+      "answer": "B.Tech admissions at NIT Jalandhar are conducted through JEE Main followed by JoSAA and CSAB counseling. Seat allocation is based on rank, category, and availability as published in the official JoSAA seat matrix. The institute follows reservation policies as per Government of India norms.",
+      "category": "BTech Admissions"
+    },
+    {
+      "id": "adm_002",
+      "question": "What are the admission requirements for M.Tech programs?",
+      "answer": "M.Tech admissions at NIT Jalandhar are based on GATE scores and conducted through CCMT counseling. Candidates must have a valid GATE score and follow the centralized counseling process.",
+      "category": "MTech Admissions"
+    },
+    {
+      "id": "adm_003",
+      "question": "How do I apply for MBA at NIT Jalandhar?",
+      "answer": "MBA admissions at NIT Jalandhar consider national-level entrance examinations such as CAT, MAT, or CMAT, followed by further selection processes if applicable. The final selection is based on entrance exam scores and interview performance.",
+      "category": "MBA Admissions"
+    },
+    {
+      "id": "adm_004",
+      "question": "What is the process for PhD admissions?",
+      "answer": "PhD admissions at NIT Jalandhar are conducted through institute-level entrance tests and interviews. Exemptions are provided for candidates holding valid national fellowships such as CSIR, GATE, or other fellowship programs.",
+      "category": "PhD Admissions"
+    }
+  ],
+  "placements": [
+    {
+      "id": "place_001",
+      "question": "What is the placement rate at NIT Jalandhar?",
+      "answer": "In recent placement cycles, NIT Jalandhar has reported a placement rate of approximately 91.88 percent, demonstrating strong industry demand for our graduates.",
+      "category": "Placement Statistics"
+    },
+    {
+      "id": "place_002",
+      "question": "What are the salary packages offered to graduates?",
+      "answer": "The highest package offered at NIT Jalandhar has reached up to 52 LPA (Lakhs Per Annum), with an average package of around 9.78 LPA across all disciplines.",
+      "category": "Salary & Packages"
+    },
+    {
+      "id": "place_003",
+      "question": "Who are the major recruiters at NIT Jalandhar?",
+      "answer": "Major recruiters include leading multinational companies and Indian organizations across IT, core engineering, analytics, and research sectors. The Training and Placement Cell facilitates internships and placements through pre-placement talks, aptitude/technical tests, and interviews.",
+      "category": "Recruiters"
+    },
+    {
+      "id": "place_004",
+      "question": "What is the placement process like at NIT Jalandhar?",
+      "answer": "The placement process includes pre-placement talks by companies, aptitude or technical tests, technical interviews, and HR interviews. The Training and Placement Cell coordinates all activities and maintains relationships with recruiters.",
+      "category": "Placement Process"
+    }
+  ],
+  "campus_facilities": [
+    {
+      "id": "camp_001",
+      "question": "What hostel facilities are available at NIT Jalandhar?",
+      "answer": "NIT Jalandhar provides separate hostel facilities for boys and girls within the campus. Hostel allocation is based on the program and year of study. Hostels are equipped with basic furniture, Wi-Fi connectivity, mess facilities, power backup, and security arrangements.",
+      "category": "Hostel Facilities"
+    },
+    {
+      "id": "camp_002",
+      "question": "What are the campus facilities at NIT Jalandhar?",
+      "answer": "The campus of NIT Jalandhar is fully residential with academic blocks, hostels, administrative buildings, sports facilities, and green spaces. The institute offers facilities for indoor and outdoor sports, a gymnasium, medical center, library, and high-speed internet connectivity.",
+      "category": "Campus Infrastructure"
+    },
+    {
+      "id": "camp_003",
+      "question": "What sports and recreational facilities are available?",
+      "answer": "NIT Jalandhar offers facilities for both indoor and outdoor sports including cricket, football, basketball, badminton, and volleyball. The campus has a well-equipped gymnasium, sports grounds, and recreational areas for student activities.",
+      "category": "Sports & Recreation"
+    },
+    {
+      "id": "camp_004",
+      "question": "What other campus amenities are provided?",
+      "answer": "The campus provides a medical center, central library with extensive collections, Wi-Fi connectivity throughout, mess facilities, power backup systems, and secure campus environment with 24/7 security arrangements.",
+      "category": "Campus Amenities"
+    }
+  ],
+  "student_life": [
+    {
+      "id": "stud_001",
+      "question": "What student activities and clubs are available?",
+      "answer": "Student life at NIT Jalandhar includes participation in technical, cultural, literary, and social clubs. Students can engage in various interest groups and community service activities.",
+      "category": "Student Clubs"
+    },
+    {
+      "id": "stud_002",
+      "question": "What events and festivals does NIT Jalandhar organize?",
+      "answer": "The institute organizes an annual technical festival named TechNITi along with various cultural events, workshops, seminars, and guest lectures throughout the academic year, fostering a vibrant campus culture.",
+      "category": "Events & Festivals"
+    },
+    {
+      "id": "stud_003",
+      "question": "What is the campus culture like at NIT Jalandhar?",
+      "answer": "NIT Jalandhar maintains a dynamic and inclusive campus culture with diverse student activities. The institute emphasizes holistic development through academic rigor, technical competitions, cultural programs, and community engagement initiatives.",
+      "category": "Campus Culture"
+    }
+  ],
+  "governance_faculty": [
+    {
+      "id": "gov_001",
+      "question": "What is the governance structure of NIT Jalandhar?",
+      "answer": "NIT Jalandhar has a structured governance system with a Board of Governors. The Director serves as the chief academic and executive head responsible for overall institute management.",
+      "category": "Governance"
+    },
+    {
+      "id": "gov_002",
+      "question": "What are the roles of faculty members at NIT Jalandhar?",
+      "answer": "Faculty members at NIT Jalandhar are responsible for teaching, research, curriculum development, and student mentoring. They maintain research labs, guide student projects, and contribute to academic excellence.",
+      "category": "Faculty"
+    }
+  ],
+  "research_innovation": [
+    {
+      "id": "res_001",
+      "question": "Does NIT Jalandhar focus on research and innovation?",
+      "answer": "Yes, NIT Jalandhar is committed to fostering interdisciplinary research and innovation. The institute focuses on knowledge transfer, strengthening ties between academia and industry, and exploring new frontiers of knowledge.",
+      "category": "Research & Innovation"
+    },
+    {
+      "id": "res_002",
+      "question": "What research opportunities are available for students?",
+      "answer": "Students at NIT Jalandhar have opportunities to participate in research projects, interdisciplinary centers, and collaborations with industry. Each department maintains active research labs and facilities.",
+      "category": "Student Research"
+    }
+  ],
+  "new_education_policy": [
+    {
+      "id": "nep_001",
+      "question": "How is NIT Jalandhar aligned with the New Education Policy (NEP)?",
+      "answer": "NIT Jalandhar is embracing the principles outlined in the New Education Policy (NEP), focusing on interdisciplinary learning, skill development, and holistic education. The institute is adapting its curriculum and pedagogical approaches accordingly.",
+      "category": "NEP Alignment"
+    }
+  ]
+}

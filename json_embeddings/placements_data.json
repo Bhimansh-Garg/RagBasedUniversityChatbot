@@ -1,0 +1,237 @@
+{
+  "personnel_qa_embeddings": {
+    "metadata": {
+      "title": "NIT Jalandhar Personnel & Administrative Contacts - Q&A",
+      "source": "Prospectus 2024-2025",
+      "updated": "2024-2025",
+      "total_embeddings": 25
+    },
+    
+    "leadership": [
+      {
+        "id": "per_001",
+        "question": "Who is the Director of NIT Jalandhar?",
+        "answer": "Prof Binod Kumar Kanaujia is the Director of NIT Jalandhar. He holds a PhD from IIT BHU and serves as the chief academic and executive head of the institute. Email: director@nitj.ac.in or bkkanaujia@nitj.ac.in",
+        "category": "Leadership",
+        "keywords": ["Director", "Head", "Leadership", "Chief Executive"],
+        "related_queries": ["Who leads NIT Jalandhar?", "Director's contact?"]
+      },
+      {
+        "id": "per_002",
+        "question": "Who is the Registrar of NIT Jalandhar?",
+        "answer": "Prof Ajay Bansal is the Registrar of NIT Jalandhar. He holds a PhD from Panjab University, Chandigarh. The Registrar serves as the Secretary to the Institute and handles overall administrative affairs. Email: registrar@nitj.ac.in or bansala@nitj.ac.in",
+        "category": "Administration",
+        "keywords": ["Registrar", "Administration", "Secretary"],
+        "related_queries": ["Registrar's contact?", "Administrative head?", "Who handles college administration?"]
+      }
+    ],
+
+    "academic_deans": [
+      {
+        "id": "per_003",
+        "question": "Who is the Dean of Academics at NIT Jalandhar?",
+        "answer": "Prof Raman Bedi is the Dean (Academic) at NIT Jalandhar. He oversees all academic affairs and B.Tech programs. Email: da@nitj.ac.in or bedir@nitj.ac.in. Contact through him for academic matters, course approvals, and academic policies.",
+        "category": "Academic Leadership",
+        "keywords": ["Dean Academic", "Academic affairs", "B.Tech"],
+        "related_queries": ["Who handles academics?", "Academic Dean contact?", "B.Tech program head?"]
+      },
+      {
+        "id": "per_004",
+        "question": "Who is the Dean of Planning & Development?",
+        "answer": "Prof Subhash Chander is the Dean (Planning & Development) at NIT Jalandhar. He manages planning and development initiatives for the institute. Email: deanpd@nitj.ac.in or chanders@nitj.ac.in",
+        "category": "Administrative Leadership",
+        "keywords": ["Dean Planning", "Development", "Institute planning"],
+        "related_queries": ["Planning and development?", "Campus development?"]
+      },
+      {
+        "id": "per_005",
+        "question": "Who is the Dean of Research & Consultancy?",
+        "answer": "Prof Rohit Mehra is the Dean (Research & Consultancy). He oversees all research programs, research projects, and industry consultancy affairs. Email: drc@nitj.ac.in or mehrar@nitj.ac.in. Contact for research opportunities, project collaboration, and consultancy services.",
+        "category": "Research Leadership",
+        "keywords": ["Dean Research", "Research programs", "Consultancy", "Industry collaboration"],
+        "related_queries": ["Research programs?", "How to do research?", "PhD opportunities?", "Industry projects?"]
+      },
+      {
+        "id": "per_006",
+        "question": "Who is the Dean of Student Welfare?",
+        "answer": "Prof Anish Sachdeva is the Dean (Student Welfare). He is responsible for student welfare, discipline, and overall student experience. Email: dsw@nitj.ac.in or asachdeva@nitj.ac.in. Contact for student-related issues, grievances, and welfare matters.",
+        "category": "Student Affairs",
+        "keywords": ["Dean Student Welfare", "Student affairs", "Discipline", "Student grievances"],
+        "related_queries": ["Student grievances?", "How to lodge complaint?", "Student welfare?", "Disciplinary matters?"]
+      },
+      {
+        "id": "per_007",
+        "question": "Who is the Dean of Faculty Welfare?",
+        "answer": "Prof S. K. Sinha is the Dean (Faculty Welfare). He manages faculty development programs, welfare initiatives, and faculty support services. Email: dfw@nitj.ac.in or sinhask@nitj.ac.in",
+        "category": "Faculty Affairs",
+        "keywords": ["Dean Faculty", "Faculty welfare", "Professional development"],
+        "related_queries": ["Faculty programs?", "Faculty development?"]
+      },
+      {
+        "id": "per_008",
+        "question": "Who is the Dean of Industry and International Affairs?",
+        "answer": "Prof Mamta Khosla is the Dean (Industry and International Affairs). She oversees industry partnerships, collaborations, and international affairs. Email: diia@nitj.ac.in or khoslam@nitj.ac.in. Contact for industry internships, international opportunities, and student exchange programs.",
+        "category": "External Affairs",
+        "keywords": ["Dean Industry", "International affairs", "Partnerships", "Collaborations", "Internships"],
+        "related_queries": ["Internship opportunities?", "International programs?", "Industry partnerships?", "Student exchange?"]
+      }
+    ],
+
+    "registrar_office": [
+      {
+        "id": "per_009",
+        "question": "How do I contact the Registrar's Office?",
+        "answer": "The Registrar's Office handles all administrative matters. You can contact: Registrar Prof Ajay Bansal (registrar@nitj.ac.in). For specific issues: Financial matters - Dr Gaurav Tandon, Deputy Registrar (Accounts & Finance) at drfa@nitj.ac.in. Staff matters - Mr Ramneek Kumar, Deputy Registrar (Establishment) at drestablishment@nitj.ac.in",
+        "category": "Administrative Contact",
+        "keywords": ["Registrar office", "Contact", "Administrative support"],
+        "related_queries": ["How to contact office?", "Administrative help?", "Fee queries?", "Academic certificates?"]
+      },
+      {
+        "id": "per_010",
+        "question": "Who handles academic certificates and documentation?",
+        "answer": "Mr Neeraj (Assistant Registrar - Academic & Legal) handles academic matters and documentation. Email: aracademic@nitj.ac.in (academic) or arlegal@nitj.ac.in (legal matters). Contact for transcripts, certificates, degree documents, and legal certifications.",
+        "category": "Academic Administration",
+        "keywords": ["Certificates", "Transcripts", "Documentation", "Academic records"],
+        "related_queries": ["How to get degree?", "Transcript request?", "Academic certificate?"]
+      },
+      {
+        "id": "per_011",
+        "question": "Who handles examination matters?",
+        "answer": "Mr Ramesh Chand Meena, Assistant Registrar (Examination) handles all examination-related matters. Email: arexam@nitj.ac.in. Contact for exam schedules, question papers, result disputes, and examination queries.",
+        "category": "Examination",
+        "keywords": ["Examination", "Exam schedule", "Results", "Question papers"],
+        "related_queries": ["When are exams?", "Result delayed?", "Exam dispute?", "Retotaling?"]
+      }
+    ],
+
+    "student_affairs": [
+      {
+        "id": "per_012",
+        "question": "Who should I contact for hostel-related issues?",
+        "answer": "Contact your Hostel Warden directly for immediate hostel issues. Chief Warden is Dr Shailendra Bajpai (bajpais@nitj.ac.in, Phone: 9888895253) for major issues. For academic year 2024-25, wardens manage 17 different hostels. Each hostel has a dedicated warden for supervision.",
+        "category": "Hostel Management",
+        "keywords": ["Hostel", "Warden", "Accommodation", "Complaints"],
+        "related_queries": ["Hostel complaint?", "Warden contact?", "Room issue?", "Messy food problem?"]
+      },
+      {
+        "id": "per_013",
+        "question": "Who is my Hostel Warden? (How to find?)",
+        "answer": "There are 17 wardens for different hostels: Boys Hostels (BH-1 to BH-7), Modern Boys Hostels (MBA, MBH-A, MBH-B, MBH-F, MBH-Mess), and Girls Hostels (GH-1, GH-2, MGH, MGH Phase-II). Contact your hostel office or Chief Warden Dr Shailendra Bajpai (bajpais@nitj.ac.in) for warden details and direct contact information.",
+        "category": "Hostel Information",
+        "keywords": ["Hostel Warden", "Accommodation", "Hostel management"],
+        "related_queries": ["Who is my warden?", "Warden phone number?", "Hostel office?"]
+      },
+      {
+        "id": "per_014",
+        "question": "Who handles student grievances?",
+        "answer": "For student grievances: First contact your Warden/Chief Warden or Dean (Student Welfare). Dr Anish Sachdeva, Dean (Student Welfare) - dsw@nitj.ac.in or asachdeva@nitj.ac.in. The institute has a Grievance Cell that handles genuine concerns after normal channels are exhausted.",
+        "category": "Student Grievances",
+        "keywords": ["Grievance", "Complaint", "Student concerns"],
+        "related_queries": ["How to lodge grievance?", "Complaint process?", "Who handles issues?"]
+      }
+    ],
+
+    "placement_and_training": [
+      {
+        "id": "per_015",
+        "question": "Who handles placements at NIT Jalandhar?",
+        "answer": "Dr Asutosh Kar is the Coordinator of Centre of Training & Placement (CTP). Email: ctp@nitj.ac.in. The team includes training officers: Mr Rohit Rana (MBA) and Mrs Harsh Malhotra. The CTP coordinates with major recruiters and achieved 91.88% placement rate with average package of 9.78 LPA.",
+        "category": "Placements",
+        "keywords": ["Placement", "Training", "Jobs", "Recruiters", "Salary"],
+        "related_queries": ["How to get placed?", "Which companies visit?", "Placement process?", "Average salary?"]
+      },
+      {
+        "id": "per_016",
+        "question": "How do I contact the Training and Placement Cell?",
+        "answer": "Centre of Training & Placement (CTP) Email: ctp@nitj.ac.in or contact through Dean (Industry and International Affairs) Prof Mamta Khosla at diia@nitj.ac.in. Office is located on campus. The CTP coordinates internships, placements, and industry interactions.",
+        "category": "Placement Contact",
+        "keywords": ["CTP", "Placement office", "Training", "Contact"],
+        "related_queries": ["CTP contact?", "Where is placement office?", "Internship help?"]
+      }
+    ],
+
+    "medical_and_support": [
+      {
+        "id": "per_017",
+        "question": "Who is the Medical Officer? Can I see the doctor?",
+        "answer": "Medical Officers: Dr Tarun Sehgal (sehgalt@nitj.ac.in) and Dr Sitakshi (bhatias@nitj.ac.in). The Medical Center is available on campus for student and staff health. Walk-in consultations are available. Contact the hostel warden or go directly to the medical center for urgent health matters.",
+        "category": "Medical Services",
+        "keywords": ["Medical", "Doctor", "Health center", "Medical officer"],
+        "related_queries": ["How to see doctor?", "Medical center location?", "Health issue?", "Medicines available?"]
+      },
+      {
+        "id": "per_018",
+        "question": "Who handles sports and physical education?",
+        "answer": "Dr G. S. Dhaliwal is the Head (Athletics) & Staff and Associate Professor of Physical Education. Email: dhaliwalgs@nitj.ac.in. Dr Vijay Kumar Mishra is the Sports Officer (Basketball). Contact for sports activities, fitness programs, and recreational facilities.",
+        "category": "Sports",
+        "keywords": ["Sports", "Physical education", "Fitness", "Athletics"],
+        "related_queries": ["Sports programs?", "Gym access?", "Sports coaching?", "Athletic teams?"]
+      }
+    ],
+
+    "department_heads": [
+      {
+        "id": "per_019",
+        "question": "How do I contact my department?",
+        "answer": "Each of the 7 departments (CSE, Mechanical, Electrical, Civil, ECE, Chemical, Biotechnology) has a Head and faculty. For department-specific matters: Visit department office, contact your course instructor, or email department coordinator. Contact Dean (Academic) Prof Raman Bedi (da@nitj.ac.in) for department-related academic issues.",
+        "category": "Department Contact",
+        "keywords": ["Department", "Head", "Faculty", "Contact"],
+        "related_queries": ["Department HOD?", "Syllabus?", "Course instructor?", "Department office?"]
+      },
+      {
+        "id": "per_020",
+        "question": "How do I find my course instructor or professor?",
+        "answer": "Visit your department office or check the institute website for faculty directory with names, qualifications, and email addresses. You can also contact the Department Head or Dean (Academic). Faculty office hours are usually available for student consultations.",
+        "category": "Faculty Contact",
+        "keywords": ["Faculty", "Professor", "Instructor", "Course", "Contact"],
+        "related_queries": ["Professor email?", "How to email teacher?", "Faculty office?", "Office hours?"]
+      }
+    ],
+
+    "special_centers_and_committees": [
+      {
+        "id": "per_021",
+        "question": "Who leads the Centre of Training & Placement and Innovation?",
+        "answer": "Centre of Training & Placement Coordinator: Dr Asutosh Kar. Institute Innovation Council: President - Dr B S Saini, Vice President - Dr T Srinivas, Convener - Dr Lalit Jajpura. For startup and innovation support, contact Dr B S Saini (sainibs@nitj.ac.in).",
+        "category": "Special Initiatives",
+        "keywords": ["Innovation", "Incubation", "Startups", "Training"],
+        "related_queries": ["Startup help?", "Innovation support?", "Business incubator?"]
+      },
+      {
+        "id": "per_022",
+        "question": "How do I contact the Library?",
+        "answer": "The Central Library provides access to extensive collections, digital resources, and Wi-Fi connectivity. For library services, visit the library office on campus or contact through the Registrar's office. Library staff can help with book access, digital subscriptions, and research resources.",
+        "category": "Library Services",
+        "keywords": ["Library", "Books", "Digital resources", "Research"],
+        "related_queries": ["Library hours?", "Book search?", "Database access?", "Study space?"]
+      },
+      {
+        "id": "per_023",
+        "question": "Who handles IT infrastructure and computing facilities?",
+        "answer": "IT infrastructure is managed by the institute IT team. For computing facility issues, network problems, or Wi-Fi connectivity: Report through your department IT coordinator or contact the System Administrator through the Registrar's office (registrar@nitj.ac.in). Technical support available for lab and computing issues.",
+        "category": "IT Services",
+        "keywords": ["IT", "Network", "Internet", "Computing", "Technical support"],
+        "related_queries": ["Wi-Fi not working?", "Computer lab?", "Internet issue?", "Email problem?"]
+      }
+    ],
+
+    "international_and_industry": [
+      {
+        "id": "per_024",
+        "question": "For international student programs and exchange, whom should I contact?",
+        "answer": "Contact Dean (Industry and International Affairs) Prof Mamta Khosla (diia@nitj.ac.in). She manages international collaborations, student exchange programs, and global partnerships. Associate Deans: Dr M D Roy (roymd@nitj.ac.in) and Dr Kiran Singh (as3.diia@nitj.ac.in) also handle international affairs.",
+        "category": "International Affairs",
+        "keywords": ["International", "Student exchange", "Global", "Collaboration"],
+        "related_queries": ["International student?", "Exchange program?", "Global partnership?", "Study abroad?"]
+      },
+      {
+        "id": "per_025",
+        "question": "How do I find industry internship and collaboration opportunities?",
+        "answer": "Contact: 1) Centre of Training & Placement (ctp@nitj.ac.in) for placements and major recruiting companies, 2) Dean (Industry and International Affairs) Prof Mamta Khosla (diia@nitj.ac.in) for industry partnerships, 3) Your Department Head for research collaborations. Major recruiters include Bajaj Finance, L&T, Amazon, and many tech companies.",
+        "category": "Industry Collaboration",
+        "keywords": ["Internship", "Industry", "Companies", "Jobs", "Collaboration"],
+        "related_queries": ["Internship opportunity?", "Company visit?", "Job recruitment?", "Industry project?"]
+      }
+    ]
+  }
+}

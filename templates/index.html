@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NITJ Virtual Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <!-- Full Page Background with Logo and Header -->
+    <div class="page-container">
+        <!-- Header Section -->
+        <div class="header-section">
+            <div class="header-content">
+                <div class="logo-container">
+                    <img src="{{ url_for('static', filename='nitj.png') }}" alt="NITJ Logo" class="nitj-logo">
+                </div>
+                <div class="header-text">
+                    <h1>DR B R AMBEDKAR NATIONAL INSTITUTE OF TECHNOLOGY</h1>
+                    <p>JALANDHAR, PUNJAB (INDIA)</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Background Section -->
+        <div class="background-section">
+            <!-- Chat Toggle Button -->
+            <div id="chat-toggle" class="chat-toggle">
+                <span class="message-icon">💬</span>
+            </div>
+
+            <!-- Chat Window -->
+            <div class="chat-container" id="chat-container">
+                <!-- Resize Handles -->
+                <div class="resize-handle bottom-right" id="resize-bottom-right"></div>
+                <div class="resize-handle right" id="resize-right"></div>
+                <div class="resize-handle bottom" id="resize-bottom"></div>
+                <div class="resize-handle left" id="resize-left"></div>
+                <div class="resize-handle top" id="resize-top"></div>
+                
+                <!-- Chat Header -->
+                <div class="chat-header">
+                    <div class="header-top">
+                        <img src="{{ url_for('static', filename='nitj.png') }}" alt="NITJ Logo" class="chat-logo">
+                        <div class="header-title">
+                            <h3>NITJ Virtual Assistant</h3>
+                            <p>Available 24/7</p>
+                        </div>
+                    </div>
+                    <span id="close-chat" class="close-btn">✖</span>
+                </div>
+
+                <!-- Chat Messages -->
+                <div class="chat-box" id="chat-box">
+                    <div class="bot-message">
+                        <span class="message-avatar">🤖</span>
+                        <div class="message-content">
+                            Hello 👋 I'm the NITJ Virtual Assistant. Ask me anything about admissions, placements, academics, campus life, or any other institute information!
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Typing Indicator -->
+                <div class="typing" id="typing">
+                    <span class="typing-dot"></span>
+                    <span class="typing-dot"></span>
+                    <span class="typing-dot"></span>
+                </div>
+
+                <!-- Chat Input -->
+                <div class="chat-input">
+                    <input type="text" id="user-input" placeholder="Type your question here..." autocomplete="off" />
+                    <button id="send-btn" class="send-button" onclick="sendMessage()">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="22" y1="2" x2="11" y2="13"></line>
+                            <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

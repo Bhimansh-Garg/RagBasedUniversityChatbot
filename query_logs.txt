@@ -1,0 +1,38 @@
+Tell me about hostel facilities | Confidence: 0.6119247078895569
+What is placement percentage? | Confidence: 0.4589805603027344
+dates for physical reporting | Confidence: 0.6052651405334473
+dates for physical reporting | Confidence: 0.6052651405334473
+dates for physical reporting | Confidence: 0.6052651405334473
+physica reportinig dates for thapar university | Confidence: 0.5291399359703064
+physical reporting dates for nitj | Confidence: 0.614269495010376
+dates for physical reporting | Confidence: 0.6052651405334473
+dates for physical reporting for thapar | Confidence: 0.5111837387084961
+what do think of nit jalandhar placements | Confidence: 0.7631605267524719
+who is the director of nit jalandhar | Confidence: 0.7415840029716492
+who is director of nitj | Confidence: 0.5247423648834229
+who is the director of nit jalandhar | Confidence: 0.7415838837623596
+Query: who is the director of nit jalandhar | Confidence: 0.713 | Sources: [Page 1] knowledge_base\nitj_data.txt, [Page 1] knowledge_base\nitj_data.txt, [Page 3] knowledge_base\1719227188415-Prospectus 2024-2025.pdf
+Query: who is the Hod of computer Science department | Confidence: 0.498 | Sources: [Page 64] knowledge_base\1719227188415-Prospectus 2024-2025.pdf, [Page 101] knowledge_base\1749712956173-Annual Report 2023-2024 (English).pdf, [Page 103] knowledge_base\1749712956173-Annual Report 2023-2024 (English).pdf
+Query: who is head of department of computer Science in nit jalandhar | Confidence: 0.736 | Sources: [Page 1] knowledge_base\nitj_data.txt, [Page 5] knowledge_base\1719227188415-Prospectus 2024-2025.pdf, [Page 80] knowledge_base\1719227188415-Prospectus 2024-2025.pdf
+Query: who is the dean in nit jalandhar | Confidence: 0.753 | Sources: [Page 1] knowledge_base\nitj_data.txt, [Page 1] knowledge_base\nitj_data.txt, [Page 1] knowledge_base\nitj_data.txt
+Query: who is the registrar of nit jalandhar | Confidence: 0.722 | Sources: [Page 1] knowledge_base\nitj_data.txt, [Page 1] knowledge_base\nitj_data.txt, [Page 1] knowledge_base\nitj_data.txt
+Query: who is the director nit jalandhar | Confidence: 0.710 | Sources: [Page 1] knowledge_base\nitj_data.txt, [Page 3] knowledge_base\1719227188415-Prospectus 2024-2025.pdf, [Page 3] knowledge_base\1719227188415-Prospectus 2024-2025.pdf
+Query: who is the director of nit jalandhar | Confidence: 0.713 | Sources: [Page 1] knowledge_base\nitj_data.txt, [Page 1] knowledge_base\nitj_data.txt, [Page 1] knowledge_base\nitj_data.txt
+Query: what is nit jalandhar | Source: JSON | Confidence: 0.873 | Status: SUCCESS
+Query: who is the director of nit jalandhar | Source: JSON | Confidence: 0.856 | Status: SUCCESS
+Query: who is the registrar of nit jalandhar | Source: JSON | Confidence: 0.806 | Status: SUCCESS
+Query: What are NIT Jalandhar's rankings | Source: JSON | Confidence: 0.849 | Status: SUCCESS
+Query: Where is NIT Jalandhar located? | Source: JSON | Confidence: 0.862 | Status: SUCCESS
+Query: who is the director of nit jalandhar | Source: JSON | Confidence: 0.856 | Status: SUCCESS
+Query: who is the head of the department of Computer Science in nit jalandhar | Source: JSON | Confidence: 0.809 | Status: SUCCESS
+Query: mess facilities | Source: LLaMA3 | Confidence: 0.359 | Status: GENERATED
+Query: bviuugivv | Source: LLaMA3 | Confidence: 0.228 | Status: GENERATED
+Query: who is hod of cse in nitj jalandhar | Source: PDF | Confidence: 0.609 | Status: SUCCESS
+Query: compter science | Source: LLaMA3 | Confidence: 0.350 | Status: GENERATED
+Query: who is the head of department of computer Science and Engineering in nit jalandhar | Source: JSON | Confidence: 0.819 | Status: SUCCESS
+Query: what courses are offered by nit jalandhar | Source: JSON | Confidence: 0.811 | Status: SUCCESS
+Query: how to score well in jee mains | Source: LLaMA3 | Confidence: 0.436 | Status: GENERATED
+Query: who is the director of nit jalandhar | Source: JSON | Confidence: 0.856 | Status: SUCCESS
+Query: mess facilities | Source: LLaMA3 | Confidence: 0.359 | Status: GENERATED
+Query: placement stats | Source: LLaMA3 | Confidence: 0.509 | Status: GENERATED
+Query: btech | Source: LLaMA3 | Confidence: 0.413 | Status: GENERATED

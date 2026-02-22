@@ -1,0 +1,477 @@
+{
+  "personnel_and_administration": {
+    "title": "NIT Jalandhar Personnel & Administrative Directory",
+    "source": "Prospectus 2024-2025",
+    "last_updated": "2024-2025",
+    
+    "senior_leadership": {
+      "director": {
+        "name": "Prof Binod Kumar Kanaujia",
+        "title": "Director",
+        "qualification": "PhD (IIT BHU)",
+        "email": "director@nitj.ac.in",
+        "alternate_email": "bkkanaujia@nitj.ac.in",
+        "description": "Chief academic and executive head of the institute",
+        "message_excerpt": "From The Director's Desk",
+        "keywords": ["Director", "Chief Executive", "Leadership", "Executive Head"]
+      }
+    },
+    
+    "registrar_office": {
+      "registrar": {
+        "name": "Prof Ajay Bansal",
+        "title": "Registrar",
+        "qualification": "PhD (Panjab University, Chandigarh)",
+        "email": "registrar@nitj.ac.in",
+        "alternate_email": "bansala@nitj.ac.in",
+        "description": "Secretary to the Institute, handles administrative affairs",
+        "message_excerpt": "From the Registrar's Desk",
+        "keywords": ["Registrar", "Administration", "Secretary"]
+      },
+      "deputy_registrar": [
+        {
+          "name": "Dr Gaurav Tandon",
+          "title": "Deputy Registrar (Accounts & Finance)",
+          "email": "drfa@nitj.ac.in",
+          "responsibility": "Accounts and financial management"
+        },
+        {
+          "name": "Mr. Ramneek Kumar",
+          "title": "Deputy Registrar (Establishment)",
+          "email": "drestablishment@nitj.ac.in",
+          "responsibility": "Staff and establishment matters"
+        }
+      ],
+      "assistant_registrar": [
+        {
+          "name": "Mr. Neeraj",
+          "title": "Assistant Registrar (Academic & Legal)",
+          "email": "aracademic@nitj.ac.in, arlegal@nitj.ac.in",
+          "responsibility": "Academic and legal affairs"
+        },
+        {
+          "name": "Mr. Vipan Kumar",
+          "title": "Assistant Registrar (Accounts & Store)",
+          "email": "arstore@nitj.ac.in",
+          "responsibility": "Accounts and store management"
+        },
+        {
+          "name": "Ms. Poonam Arora",
+          "title": "Assistant Registrar (Audit)",
+          "email": "araudit@nitj.ac.in",
+          "responsibility": "Audit functions"
+        },
+        {
+          "name": "Mr. Vijay Narayan",
+          "title": "Assistant Registrar (Establishment)",
+          "email": "arestablishment@nitj.ac.in",
+          "responsibility": "Staff establishment"
+        },
+        {
+          "name": "Mr. Ramesh Chand Meena",
+          "title": "Assistant Registrar (Examination)",
+          "email": "arexam@nitj.ac.in",
+          "responsibility": "Examination management"
+        },
+        {
+          "name": "Mr. Rakesh Kakkar",
+          "title": "Assistant Registrar (General Administration and Estate)",
+          "email": "aradministration@nitj.ac.in",
+          "responsibility": "General administration and estate management"
+        },
+        {
+          "name": "Mr. Sourav Gupta",
+          "title": "Assistant Registrar (Purchase)",
+          "email": "arpurchase@nitj.ac.in",
+          "responsibility": "Purchase and procurement"
+        }
+      ]
+    },
+
+    "academic_deans": {
+      "description": "Six Deans manage academic and administrative functions",
+      "deans": [
+        {
+          "name": "Prof Raman Bedi",
+          "title": "Dean (Academic)",
+          "email": "da@nitj.ac.in",
+          "alternate_email": "bedir@nitj.ac.in",
+          "responsibility": "Overall academic affairs and B.Tech programs",
+          "keywords": ["Dean Academic", "Teaching", "Academics"]
+        },
+        {
+          "name": "Prof Subhash Chander",
+          "title": "Dean (Planning & Development)",
+          "email": "deanpd@nitj.ac.in",
+          "alternate_email": "chanders@nitj.ac.in",
+          "responsibility": "Planning and development of institute",
+          "keywords": ["Dean Planning", "Development"]
+        },
+        {
+          "name": "Prof Rohit Mehra",
+          "title": "Dean (Research & Consultancy)",
+          "email": "drc@nitj.ac.in",
+          "alternate_email": "mehrar@nitj.ac.in",
+          "responsibility": "Research programs and industry collaboration",
+          "keywords": ["Dean Research", "Research", "Consultancy"]
+        },
+        {
+          "name": "Prof Anish Sachdeva",
+          "title": "Dean (Student Welfare)",
+          "email": "dsw@nitj.ac.in",
+          "alternate_email": "asachdeva@nitj.ac.in",
+          "responsibility": "Student welfare and discipline",
+          "keywords": ["Dean Student Welfare", "Student Affairs", "Welfare"]
+        },
+        {
+          "name": "Prof S. K. Sinha",
+          "title": "Dean (Faculty Welfare)",
+          "email": "dfw@nitj.ac.in",
+          "alternate_email": "sinhask@nitj.ac.in",
+          "responsibility": "Faculty development and welfare",
+          "keywords": ["Dean Faculty", "Faculty Welfare"]
+        },
+        {
+          "name": "Prof Mamta Khosla",
+          "title": "Dean (Industry and International Affairs)",
+          "email": "diia@nitj.ac.in",
+          "alternate_email": "khoslam@nitj.ac.in",
+          "responsibility": "Industry partnerships and international collaboration",
+          "keywords": ["Dean Industry", "International", "Partnerships"]
+        }
+      ]
+    },
+
+    "associate_deans": {
+      "description": "Associate Deans support the respective Deans in their functions",
+      "associate_deans": [
+        {
+          "category": "Academic",
+          "members": [
+            {
+              "name": "Dr Balvinder Raj",
+              "title": "Associate Dean (Academic-PG)",
+              "email": "as.dapg@nitj.ac.in",
+              "focus": "Postgraduate academics"
+            },
+            {
+              "name": "Dr Vickramjit Singh",
+              "title": "Associate Dean (Academic-UG)",
+              "email": "as.daug@nitj.ac.in",
+              "focus": "Undergraduate academics"
+            }
+          ]
+        },
+        {
+          "category": "Planning & Development",
+          "members": [
+            {
+              "name": "Dr. Hemant S. Chore",
+              "title": "Associate Dean I (Planning & Development)",
+              "email": "chorehs@nitj.ac.in"
+            },
+            {
+              "name": "Dr Rajesh Singla",
+              "title": "Associate Dean II (Planning & Development)",
+              "email": "singlar@nitj.ac.in"
+            },
+            {
+              "name": "Dr Kanish Kapoor",
+              "title": "Associate Dean III (Planning & Development)",
+              "email": "as3.dpd@nitj.ac.in"
+            }
+          ]
+        },
+        {
+          "category": "Student Welfare",
+          "members": [
+            {
+              "name": "Dr Jaspreet Kaur Rajput",
+              "title": "Associate Dean I (Student Welfare)",
+              "email": "rajputj@nitj.ac.in"
+            },
+            {
+              "name": "Dr Indu Saini",
+              "title": "Associate Dean II (Student Welfare)",
+              "email": "sainii@nitj.ac.in"
+            },
+            {
+              "name": "Dr Sumit Sharma",
+              "title": "Associate Dean III (Student Welfare)",
+              "email": "sharmas@nitj.ac.in"
+            }
+          ]
+        },
+        {
+          "category": "Research & Consultancy",
+          "members": [
+            {
+              "name": "Dr N Basak",
+              "title": "Associate Dean I (Research & Consultancy)",
+              "email": "basakn@nitj.ac.in"
+            },
+            {
+              "name": "Dr Ashish Raman",
+              "title": "Associate Dean II (Research & Consultancy)",
+              "email": "as2.drc@nitj.ac.in"
+            },
+            {
+              "name": "Dr Satyender Singh",
+              "title": "Associate Dean III (Research & Consultancy)",
+              "email": "as3.drc@nitj.ac.in"
+            }
+          ]
+        },
+        {
+          "category": "Faculty Welfare",
+          "members": [
+            {
+              "name": "Dr Rajeev Kukreja",
+              "title": "Associate Dean I (Faculty Welfare)",
+              "email": "as.dfw@nitj.ac.in"
+            },
+            {
+              "name": "Dr Harleen Dahiya",
+              "title": "Associate Dean II (Faculty Welfare)",
+              "email": "dahiyah@nitj.ac.in"
+            },
+            {
+              "name": "Dr Sukwinder Singh",
+              "title": "Associate Dean III (Faculty Welfare)",
+              "email": "as3.dfw@nitj.ac.in"
+            }
+          ]
+        },
+        {
+          "category": "Industry & International Affairs",
+          "members": [
+            {
+              "name": "Dr M D Roy",
+              "title": "Associate Dean I (Industry & International Affairs)",
+              "email": "roymd@nitj.ac.in"
+            },
+            {
+              "name": "Dr Kiran Singh",
+              "title": "Associate Dean II (Industry & International Affairs)",
+              "email": "as3.diia@nitj.ac.in"
+            }
+          ]
+        },
+        {
+          "category": "Examination",
+          "members": [
+            {
+              "name": "Dr Anupam Yadav",
+              "title": "Associate Dean (Examination)",
+              "email": "coe@nitj.ac.in"
+            }
+          ]
+        }
+      ]
+    },
+
+    "chief_warden_and_wardens": {
+      "description": "Hostel management and student accommodation supervision",
+      "chief_warden": {
+        "name": "Dr Shailendra Bajpai",
+        "title": "Chief Warden",
+        "email": "bajpais@nitj.ac.in",
+        "phone": "9888895253",
+        "responsibility": "Overall hostel management and oversight"
+      },
+      "hostel_wardens": [
+        {
+          "name": "Dr Uma Shanker",
+          "hostel": "BH - 1 (Boys Hostel 1)",
+          "email": "shankeru@nitj.ac.in",
+          "phone": "7837588168"
+        },
+        {
+          "name": "Dr Manoj Kumar Singh",
+          "hostel": "BH - 2",
+          "email": "kumarm@nitj.ac.in",
+          "phone": "9793557548"
+        },
+        {
+          "name": "Dr Prashant Kumar",
+          "hostel": "BH - 3",
+          "email": "prashantk@nitj.ac.in",
+          "phone": "8351976199"
+        },
+        {
+          "name": "Dr Mohit Kumar",
+          "hostel": "BH - 4",
+          "email": "kumarmohit@nitj.ac.in",
+          "phone": "8630990560"
+        },
+        {
+          "name": "Dr Samayveer Singh",
+          "hostel": "BH - 5",
+          "email": "samays@nitj.ac.in",
+          "phone": "9953741966"
+        },
+        {
+          "name": "Dr Kailash Chand Sharma",
+          "hostel": "BH - 6",
+          "email": "sharmakc@nitj.ac.in",
+          "phone": "9887221353"
+        },
+        {
+          "name": "Dr Narendra Kumar",
+          "hostel": "BH - 7 & 7E",
+          "email": "kumarn@nitj.ac.in",
+          "phone": "8982612225"
+        },
+        {
+          "name": "Dr Deepak Sahu",
+          "hostel": "MBH - A (Mess Boys Hostel A)",
+          "email": "sahud@nitj.ac.in",
+          "phone": "8219215064"
+        },
+        {
+          "name": "Dr Gyan Prakash",
+          "hostel": "MBH - B",
+          "email": "prakashg@nitj.ac.in",
+          "phone": "9709773788"
+        },
+        {
+          "name": "Dr Afzal Sikander",
+          "hostel": "MBH - F",
+          "email": "afzals@nitj.ac.in",
+          "phone": "7017638266"
+        },
+        {
+          "name": "Dr Rakesh Kumar",
+          "hostel": "MBH - Mess (Mess Management)",
+          "email": "rakeshkumar@nitj.ac.in",
+          "phone": "7349564686"
+        },
+        {
+          "name": "Dr Rupali Satavalekar",
+          "hostel": "GH - 1 & GH - 2 (Girls Hostel)",
+          "email": "satvalekarr@nitj.ac.in",
+          "phone": "8265999739"
+        },
+        {
+          "name": "Dr Jaspal Kaur Saini",
+          "hostel": "GH - 1 & GH - 2 (Resident Warden)",
+          "email": "sainijk@nitj.ac.in",
+          "phone": "7988102918"
+        },
+        {
+          "name": "Dr Neelam Rani",
+          "hostel": "MGH (Modern Girls Hostel)",
+          "email": "ranin@nitj.ac.in",
+          "phone": "8630933324"
+        },
+        {
+          "name": "Dr Deepika Rani",
+          "hostel": "MGH Phase-II",
+          "email": "ranid@nitj.ac.in",
+          "phone": "8439590716"
+        },
+        {
+          "name": "Dr Tarun Chaudhary",
+          "hostel": "MGH Phase-II",
+          "email": "chaudharyt@nitj.ac.in",
+          "phone": "9882317701"
+        }
+      ]
+    },
+
+    "medical_and_technical_staff": {
+      "medical_officers": [
+        {
+          "name": "Dr Tarun Sehgal",
+          "title": "Medical Officer",
+          "qualification": "MBBS",
+          "email": "sehgalt@nitj.ac.in"
+        },
+        {
+          "name": "Dr Sitakshi",
+          "title": "Medical Officer",
+          "email": "bhatias@nitj.ac.in"
+        }
+      ],
+      "engineering_staff": [
+        {
+          "name": "Mr Shyam Sunder",
+          "title": "Superintending Engineer",
+          "email": "se@nitj.ac.in"
+        },
+        {
+          "name": "Mr Harpreet Singh",
+          "title": "Executive Engineer",
+          "email": "eepd@nitj.ac.in"
+        },
+        {
+          "name": "Mr Akshay Choudhary",
+          "title": "Executive Engineer (Civil)",
+          "email": "eecivil@nitj.ac.in"
+        }
+      ]
+    },
+
+    "training_and_placement": {
+      "title": "Centre of Training & Placement (CTP)",
+      "coordinator": {
+        "name": "Dr Asutosh Kar",
+        "title": "Coordinator (Centre of Training & Placement)",
+        "qualification": "PhD",
+        "email": "ctp@nitj.ac.in"
+      },
+      "staff": [
+        {
+          "name": "Mr Rohit Rana",
+          "title": "Training Officer",
+          "qualification": "MBA",
+          "email": "ctp@nitj.ac.in"
+        },
+        {
+          "name": "Mrs Harsh Malhotra",
+          "title": "Training Officer",
+          "email": "ctp@nitj.ac.in"
+        },
+        {
+          "name": "Mr Kamaljit",
+          "title": "Office Assistant",
+          "qualification": "B. Com",
+          "email": "ctp@nitj.ac.in"
+        }
+      ],
+      "placement_highlights": {
+        "rate": "91.88%",
+        "average_package": "9.78 LPA",
+        "highest_package": "52 LPA"
+      }
+    },
+
+    "library_and_it": {
+      "library_staff": "Librarian and technical staff manage central library and digital resources",
+      "it_infrastructure": "High-speed internet, Wi-Fi throughout campus, computing facilities"
+    },
+
+    "how_to_contact": {
+      "registrar_office": {
+        "email": "registrar@nitj.ac.in",
+        "contact_through": "Through respective department or Dean office"
+      },
+      "student_welfare": {
+        "email": "dsw@nitj.ac.in",
+        "contact_through": "Dean (Student Welfare) or Associate Deans"
+      },
+      "academic_matters": {
+        "email": "da@nitj.ac.in",
+        "contact_through": "Dean (Academic) or Department HOD"
+      },
+      "hostel_concerns": {
+        "contact": "Contact your Hostel Warden or Chief Warden",
+        "chief_warden_email": "bajpais@nitj.ac.in"
+      },
+      "placements": {
+        "email": "ctp@nitj.ac.in",
+        "contact": "Training and Placement Cell"
+      }
+    }
+  }
+}
